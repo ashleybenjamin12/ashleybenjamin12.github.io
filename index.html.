@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ashley Benjamin | Student Professional</title>
+<meta name="description" content="Professional website for Ashley Benjamin, a computer science student.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<header class="site-header">
+<div class="container">
+<p class="eyebrow">Computer Science Student</p>
+<h1>Ashley Benjamin</h1>
+<p class="tagline">Computer Science student at Lewis University and Centre Administrator and IT Instructor.</p>
+<nav aria-label="Primary navigation">
+  <ul>
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#goals">Goals</a></li>
+<li><a href="#connect">Connect</a></li>
+</ul>
+</nav>
+</div>
+</header>
+<main id="main-content" class="container">
+<section id="about">
+<h2>About Me</h2>
+<p>I am currently pursuing a Bachelor of Science in Computer Science at Lewis University. I work as a Centre Administrator and IT Instructor, where I assist with computer training and daily centre operations.</p>
+</section>
+<section id="skills">
+<h2>Skills and Interests</h2>
+<ul class="tag-list">
+<li>Microsoft Word, Excel, and PowerPoint</li>
+<li>Computer troubleshooting</li>
+<li>Technical documentation</li>
+</ul>
+</section>
+<section id="projects">
+<h2>Selected Work</h2>
+<article class="card">
+<h3>Python Text and Data Analyzer</h3>
+<p>For my Computer Science course, I developed a Python program to analyze text, count words, and search for specific words. This activity helped me understand Python functions, loops, and dictionaries.</p>
+</article>
+</section>
+<section id="goals">
+<h2>Professional Goals</h2>
+<p>My goal is to expand my knowledge and skills in Computer Science and develop my career in Information Technology.</p>
+</section>
+<section id="connect">
+<h2>Connect</h2>
+<p><a href="https://www.linkedin.com/in/ashley-b-218414447">View my LinkedIn profile</a></p>
+</section>
+</main>
+<footer>
+<div class="container">
+<p>&copy; 2026 Ashley Benjamin. Built with accessible HTML and CSS.</p>
+</div>
+</footer>
+</body>
+</html>
